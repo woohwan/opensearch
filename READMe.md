@@ -1,0 +1,1 @@
+### opensearch custom 인증서 적용
